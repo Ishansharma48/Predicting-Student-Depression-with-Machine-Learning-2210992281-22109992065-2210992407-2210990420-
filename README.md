@@ -21,10 +21,10 @@ Chitkara University, Punjab, India
 
 | Name | Role | Email |
 |------|------|------|
-| :contentReference[oaicite:0]{index=0} | Team Lead & Machine Learning Developer | sharmaishan1252@gmail.com |
-| :contentReference[oaicite:1]{index=1} | Data Analysis & Documentation | srishti23madaan@gmail.com |
-| :contentReference[oaicite:2]{index=2} | Research & Literature Review | serenabalyan@gmail.com |
-| :contentReference[oaicite:3]{index=3} | Testing & Visualization | pranshuhmr@gmail.com |
+| SERENA | Team Lead & Machine Learning Developer | serenabalyan@gmail.com |
+| SRISHTI | Data Analysis & Documentation | srishti23madaan@gmail.com |
+| ISHAN | Research & Literature Review | sharmaishan1252@gmail.com  |
+| PRANSHU | Testing & Visualization | pranshuhmr@gmail.com |
 
 ---
 
