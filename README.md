@@ -111,7 +111,7 @@ This project focuses on predicting student depression using Machine Learning tec
 
 # 👥 Team Responsibilities
 
-## 🔹 Ishan Sharma
+## 🔹 Serena Balyan
 - Machine Learning model development
 - Model training and evaluation
 - Accuracy optimization
@@ -123,7 +123,7 @@ This project focuses on predicting student depression using Machine Learning tec
 - Documentation and report writing
 - Result interpretation
 
-## 🔹 Serena Balyan
+## 🔹Ishan Sharma 
 - Literature survey
 - Research methodology preparation
 - Comparative analysis of previous work
